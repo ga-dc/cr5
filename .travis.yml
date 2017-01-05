@@ -3,7 +3,6 @@ rvm:
 - 2.2
 script:
 - gem install yamlandar
-- yamlandar -c > index.html
 after_success:
 - bash deploy.sh ga-dc/cr5
 env:
