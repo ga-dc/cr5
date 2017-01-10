@@ -294,7 +294,12 @@
        title: "Lab: OOJS Practice"
        lead: "James"
        support: ""
-    - "2:30 - 5:00PM":
+    - "1:30PM - 2:15PM":
+       title: "Outcomes AMA"
+       lead: ""
+       url: ""
+       support: ""
+    - "2:30PM - 5:00PM":
        title: "Higher Order Functions"
        url: "https://github.com/ga-wdi-lessons/functional-programming"
        lead: "Nayana"
