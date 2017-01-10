@@ -41,7 +41,7 @@
        support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes"
-       url: ""
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -165,8 +165,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Alumni Panel"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week02"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -264,8 +264,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: ""
   - day:
@@ -391,8 +391,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Finding Your Voice & Defining Your Brand"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -512,8 +512,8 @@
        lead: "Erik"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Studio Tour"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: ""
   - day:
@@ -603,8 +603,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Defining Your Job Search Requirements"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -704,8 +704,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Preparing for the Interview & Talking Money"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
        lead: ""
        support: ""
   - day:
@@ -820,8 +820,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -909,8 +909,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Catch your Breath and Regroup"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week09"
        lead: ""
        support: ""
   - day:
@@ -1025,8 +1025,8 @@
        lead: "James"
        support: ""
     - "2:30PM - 5:00 PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Ask the Experts Panel Discussion (Hiring Managers and Recruiters)"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week10"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
@@ -1149,8 +1149,8 @@
        support: ""
        url: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Cracking the Technical Interview"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week11/WDI"
        lead: ""
        support: ""
   - day:
@@ -1194,8 +1194,8 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes"
-       url: ""
+       title: "Outcomes: Qualification Check-in"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week12/WDI"
        lead: ""
        support: ""
   - day:
