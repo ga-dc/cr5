@@ -73,6 +73,11 @@
        title: "No Class"
        lead: ""
        support: ""
+    - "9:00AM - 5:00PM":
+       title: "Read HTML Intro"
+       url: "https://github.com/ga-wdi-lessons/html-intro"
+       lead: "You"
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
