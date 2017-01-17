@@ -274,7 +274,7 @@
   - day:
     - "9:00AM - 10:00AM":
        title: "Project 1 Peer Pair Code Review"
-       url: "https://github.com/ga-wdi-exercises/parallax_mouse"
+       url: "https://github.com/ga-wdi-lessons/peer-code-review"
        lead: "Andy"
        support: ""
     - "10:00AM - 12:30PM":
