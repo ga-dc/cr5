@@ -40,7 +40,7 @@
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Intro to Outcomes"
+       title: "Intro to Outcomes  (CR5)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
        lead: ""
        support: ""
@@ -74,7 +74,7 @@
        lead: ""
        support: ""
     - "9:00AM - 5:00PM":
-       title: "Read HTML Intro"
+       title: "Read HTML Intro for HW"
        url: "https://github.com/ga-wdi-lessons/html-intro"
        lead: "You"
        support: ""
@@ -86,6 +86,7 @@
          - To Oz: https://github.com/ga-wdi-exercises/to_oz
          - Haiku: https://github.com/ga-wdi-exercises/haiku
          - Wendy Bite: https://github.com/ga-wdi-exercises/wendy_bite
+         - HTML Intro: https://github.com/ga-wdi-lessons/html-intro
     - "9:00AM - 10:00AM":
        title: "Mini-lesson: Pseudocoding"
        url: ""
