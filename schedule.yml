@@ -114,13 +114,13 @@
     - "05:00PM":
        title: "Due At 5: Lab"
        color: red
-       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
+       url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: ""
        support: ""
     - "06:00PM":
        title: "Due At 6: Outcomes Homework"
        color: red
-       url: "https://github.com/ga-wdi-exercises/portfolio_pages"
+       url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week02/HWWeek2.md"
        lead: ""
        support: ""
     - "6:00PM - 8:00PM":
