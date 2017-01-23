@@ -96,11 +96,14 @@
        title: "Office Hours"
        lead: "James"
        support: ""
-    - "2:30PM - 05:00PM":
+    - "2:30PM - 4:30PM":
        title: "Lab: Portfolio Pages"
        url: "https://github.com/ga-wdi-exercises/portfolio_pages"
        lead: "James"
        support: ""
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: "http://md.wdidc.org/#/2016-09-09-squad-scrum.md"
     - "05:00PM":
        title: "Due At 5: Lab"
        color: red
