@@ -34,11 +34,6 @@
        title: "Office Hours"
        lead: "Adrian"
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Intro to Outcomes  (CR5)"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week01"
@@ -99,12 +94,7 @@
        support: "Angel"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 05:00PM":
        title: "Lab: Portfolio Pages"
@@ -125,7 +115,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -140,12 +130,7 @@
        support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
+       lead: "Erik"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Objects and Functions"
@@ -154,7 +139,7 @@
        support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -169,12 +154,7 @@
        support: "Erik"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Alumni Panel"
@@ -183,7 +163,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Angel"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -247,20 +227,10 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 1"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -272,11 +242,6 @@
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
@@ -340,11 +305,6 @@
        lead: "Erik"
        support: "Nayana"
     - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
        title: "Office Hours"
        lead: ""
        support: ""
@@ -367,11 +327,6 @@
        title: "Lab: Enums"
        url: "https://github.com/ga-wdi-exercises/state_capitals"
        lead: "Adrian"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
@@ -404,11 +359,6 @@
        url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
        lead: "Andy"
        support: "James"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        url: ""
@@ -476,11 +426,6 @@
        url: "https://github.com/ga-wdi-lessons/sinatra-rest"
        lead: "Angel"
        support: "Andy"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        url: ""
@@ -596,11 +541,6 @@
        url: "https://github.com/ga-wdi-lessons/agile"
        lead: "Erik"
        support: "Angel"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -621,11 +561,6 @@
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Andy"
        support: "Nayana"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
@@ -646,11 +581,6 @@
        url: 'https://github.com/ga-wdi-lessons/devise'
        lead: "Adrian"
        support: "Erik"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
@@ -717,11 +647,6 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Preparing for the Interview & Talking Money"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week07"
@@ -783,11 +708,6 @@
        url: "https://github.com/ga-wdi-lessons/angular-routing"
        lead: "Angel"
        support: "Adrian"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "API's & AJAX"
        url: "https://github.com/ga-wdi-lessons/js-ajax"
@@ -808,11 +728,6 @@
        url: "https://github.com/ga-wdi-lessons/angular-resources"
        lead: "Andy"
        support: "Erik"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Rails API"
        url: "https://github.com/ga-wdi-lessons/rails-api"
@@ -833,11 +748,6 @@
        url: "https://github.com/ga-wdi-lessons/angular-firebase"
        lead: "Adrian"
        support: "Angel"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Sharing Your Talents with GA Profiles & Portfolios"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week08"
@@ -900,20 +810,10 @@
        url: "https://github.com/ga-wdi-exercises/project3"
        lead: ""
        support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 3"
        url: "https://github.com/ga-wdi-exercises/project3"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
   - day:
@@ -984,11 +884,6 @@
        url: "https://github.com/ga-wdi-lessons/express-mongoose"
        lead: "Adrian"
        support: "Erik"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00 PM":
        title: "Building A MEAN App"
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
@@ -1007,11 +902,6 @@
        title: "MEAN Lab"
        lead: "Andy"
        url: "https://github.com/ga-wdi-exercises/mean-lab"
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
        support: ""
     - "2:30PM - 4:30PM":
        title: "MEAN Lab"
@@ -1120,11 +1010,6 @@
        url: "https://github.com/ga-wdi-lessons/react-continued"
        lead: "Erik"
        support: "James"
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
-       lead: ""
-       support: ""
     - "2:30PM - 5:00PM":
        title: "React Router"
        url: ""
@@ -1139,11 +1024,6 @@
     - "10:00AM - 12:30PM":
        title: "Lab: React Router"
        url: "Nayana"
-       lead: ""
-       support: ""
-    - "1:30PM - 2:30PM":
-       title: "One on Ones"
-       url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
