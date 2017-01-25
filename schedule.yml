@@ -148,7 +148,7 @@
     - "9:00AM - 10:00AM":
        title: "Outcomes Prep"
        url: ""
-       lead: ""
+       lead: "Erik"
        support: ""
     - "10:00AM - 12:30AM":
        title: "Intro to the DOM w/ jQuery"
