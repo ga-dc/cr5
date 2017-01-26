@@ -184,6 +184,10 @@
        url: "https://github.com/ga-wdi-lessons/js-scope"
        lead: "Nayana"
        support: "Erik"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
