@@ -395,7 +395,12 @@
          - Geometry: https://github.com/ga-wdi-exercises/js_geometry
          - High Card: https://github.com/ga-wdi-exercises/high_card
          - Landlord: https://github.com/ga-wdi-exercises/landlord_ruby_no_AR
-    - "9:00AM - 12:30PM":
+    - "9:00AM - 10:00AM":
+       title: "Slips"
+       url: "https://ga-dc.github.io/slips/"
+       lead: "Andy"
+       support: ""
+    - "10:00AM - 12:30PM":
        title: "Lab: Ruby CLI"
        url: "https://github.com/ga-wdi-exercises/ruby-cli-lab"
        lead: "James"
