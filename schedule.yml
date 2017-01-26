@@ -172,6 +172,7 @@
     - "9:00AM - 10:00AM":
        title: "Code Challenge"
        lead: "Erik"
+       url: "https://github.com/ga-wdi-exercises/word_squeeze"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Events and Callbacks"
@@ -256,7 +257,7 @@
     - "2:30PM - 5:00PM":
        title: "Outcomes: The Winning Resume Package"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -376,8 +377,8 @@
     - "2:30PM - 5:00PM":
        title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
-       lead: ""
-       support: ""
+       lead: "Sarah & Joy"
+       support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
@@ -493,7 +494,7 @@
        title: "Outcomes: Studio Tour"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
-       support: ""
+       support: "James"
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
