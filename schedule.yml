@@ -307,7 +307,7 @@
     - "1:30PM - 2:15PM":
        title: "Outcomes AMA"
        lead: ""
-       url: ""
+       url: "https://github.com/ga-dc/outcomes/blob/master/ama.md"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Higher Order Functions"
