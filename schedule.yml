@@ -271,8 +271,8 @@
     - "10:30AM - 12:30PM":
        title: "Project 1 Presentations"
        url: "https://github.com/ga-wdi-exercises/project1"
-       lead: "Nayana"
-       support: "Angel"
+       lead: ""
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
