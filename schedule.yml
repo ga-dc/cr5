@@ -341,6 +341,12 @@
        title: "Office Hours"
        lead: ""
        support: ""
+    - "6:00PM":
+       title: "Due At 6: Outcomes Homework: The Winning Resume Package"
+       color: red
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04/HWweek4.md"
+       lead: ""
+       support: ""
   - day:
     - "9:00AM":
        title: "Code Challenge"
