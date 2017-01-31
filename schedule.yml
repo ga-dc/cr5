@@ -276,8 +276,8 @@
     - "2:30PM - 5:00PM":
        title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
-       lead: "Andy"
-       support: ""
+       lead: ""
+       support: "Angel"
   - day:
     - "9:00AM - 10:00AM":
        title: "Project 1 Peer Pair Code Review"
@@ -306,8 +306,8 @@
        support: ""
     - "1:30PM - 2:15PM":
        title: "Outcomes AMA"
-       lead: ""
        url: "https://github.com/ga-dc/outcomes/blob/master/ama.md"
+       lead: ""
        support: ""
     - "2:30PM - 5:00PM":
        title: "Higher Order Functions"
