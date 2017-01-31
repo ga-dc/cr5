@@ -273,11 +273,16 @@
        url: "https://github.com/ga-wdi-exercises/project1"
        lead: ""
        support: ""
-    - "2:30PM - 5:00PM":
+    - "2:30PM - 4:30PM":
        title: "Outcomes: Finding Your Voice & Defining Your Brand"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week03"
        lead: ""
        support: "Angel"
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 10:00AM":
        title: "Project 1 Peer Pair Code Review"
@@ -293,7 +298,7 @@
         title: "OOJS"
         url: "https://github.com/ga-wdi-lessons/js-prototypes-constructors"
         lead: "Adrian"
-        support: "James"
+        support: "Nayana"
   - day:
     - "9:00AM - 10:00AM":
        title: "Slips"
