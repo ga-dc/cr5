@@ -394,21 +394,21 @@
        url: ""
        lead: ""
        support: ""
-    - "10:00 - 12:30PM":
-       title: "Ruby OOP 2"
-       url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
-       lead: "Andy"
-       support: "James"
+    - "10:00AM - 12:30PM":
+       title: "Outcomes: The Winning Resume Package"
+       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
+       lead: ""
+       support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        url: ""
        lead: ""
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Outcomes: The Winning Resume Package"
-       url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week04"
-       lead: ""
-       support: "Nayana"
+       title: "Ruby OOP 2"
+       url: "https://github.com/ga-wdi-lessons/ruby-oop-inheritance"
+       lead: "Andy"
+       support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
