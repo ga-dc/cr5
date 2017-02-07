@@ -340,7 +340,7 @@
        support: "Nayana"
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Nayana"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby Enums"
@@ -349,7 +349,7 @@
        support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "James"
        support: ""
     - "6:00PM":
        title: "Due At 6: Outcomes Homework: Update Resume and LinkedIn"
