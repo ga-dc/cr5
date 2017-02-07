@@ -370,7 +370,7 @@
        support: ""
     - "1:30PM - 2:30PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Erik"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 1"
@@ -386,7 +386,7 @@
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        url: ""
-       lead: ""
+       lead: "Andy"
        support: ""
   - day:
     - "9:00AM - 10:00PM":
@@ -402,7 +402,7 @@
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        url: ""
-       lead: ""
+       lead: "Angel"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Ruby OOP 2"
@@ -411,7 +411,7 @@
        support: "James"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Adrian"
        support: ""
   - day:
     - "9:00AM":
