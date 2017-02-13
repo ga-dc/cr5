@@ -484,7 +484,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Angel"
        support: ""
   - day:
     - "9:00AM - 10:00PM":
@@ -514,7 +514,7 @@
        support: ""
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -531,6 +531,10 @@
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
        lead: ""
        support: "James"
+    - "6:00PM - 8:00PM":
+       title: "Office Hours"
+       lead: "Adrian"
+       support: ""
   - day:
     - "9:00AM":
        title: "Due At 9: Homework"
