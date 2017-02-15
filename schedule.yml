@@ -469,7 +469,7 @@
     - "1:30PM - 2:30PM":
        title: "Office Hours"
        url: ""
-       lead: ""
+       lead: "James"
        support: ""
     - "2:30PM - 5:00PM":
        title: "Sinatra AR"
@@ -496,6 +496,11 @@
        title: "Lab: Sinatra"
        url: "https://github.com/ga-wdi-exercises/pokenatra"
        lead: "James"
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Andy"
        support: ""
     - "2:30PM - 4:30PM":
        title: "Lab: Sinatra"
@@ -526,6 +531,11 @@
        url: "https://github.com/ga-wdi-lessons/rspec"
        lead: "Erik"
        support: "Angel"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Erik"
+       support: ""
     - "2:30PM - 5:00PM":
        title: "Outcomes: Studio Tour"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week05"
