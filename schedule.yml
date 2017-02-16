@@ -604,7 +604,7 @@
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
-       lead: "Nayana"
+       lead: "Andy"
        support: ""
     - "06:00PM":
        title: "Due At 6: Outcomes Homework: Final Brand Statement + Draft Resume"
@@ -625,8 +625,8 @@
     - "10:00AM - 12:30PM":
        title: "Rails: Users, Sessions, Flash"
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
-       lead: "Andy"
-       support: "Nayana"
+       lead: "Nayana"
+       support: "Andy"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
@@ -671,7 +671,7 @@
     - "2:30PM - 4:30PM":
        title: "Lab: Game of Thrones"
        url: "https://github.com/ga-wdi-exercises/game_of_thrones"
-       lead: "Nayana"
+       lead: "Andy"
        support: ""
     - "4:30PM - 5:00PM":
        title: "Project 2 Intro"
