@@ -696,8 +696,8 @@
        url: "https://github.com/ga-wdi-exercises/project2"
        lead: ""
        support: ""
-    - "6:00PM":
-       title: "Due At 6 pm: Outcomes HW: Final LinkedIn Profile"
+    - "6:00"
+       title: "Due at 6pm: Outcomes HW: Final LinkedIn Profile"
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week07/HWWeek7.md"
        lead: ""
