@@ -785,7 +785,7 @@
        url: "https://github.com/ga-wdi-lessons/js-ajax"
        lead: "Nayana"
        support: "Andy"
-    - "06:00PM":
+    - "6:00PM":
        title: "Due At 6: Outcomes Homework: Final Resume”
        color: red
        url: "https://github.com/ga-dc/outcomes/blob/master/roadmap/week08/HWweek8.md"
@@ -1207,7 +1207,6 @@
        url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
-
   - day:
     - "9:00AM - 12:30PM":
        title: "Testin"
