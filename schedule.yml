@@ -601,6 +601,10 @@
        url: "https://github.com/ga-wdi-lessons/agile"
        lead: "Erik"
        support: "Angel"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Andy"
     - "2:30PM - 5:00PM":
        title: "Lab: Hogwarts"
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
@@ -627,6 +631,10 @@
        url: "https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies"
        lead: "Nayana"
        support: "Andy"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Angel"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Defining Your Job Search Requirements"
        url: "https://github.com/ga-dc/outcomes/tree/master/roadmap/week06"
@@ -647,6 +655,10 @@
        url: 'https://github.com/ga-wdi-lessons/devise'
        lead: "Adrian"
        support: "Erik"
+    - "1:30PM - 2:30PM":
+       title: "Office Hours"
+       url: ""
+       lead: "Erik"
     - "2:30PM - 5:00PM":
        title: "Rails: Many-to-Many"
        url: "https://github.com/ga-wdi-lessons/rails-many-to-many"
