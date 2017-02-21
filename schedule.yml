@@ -610,6 +610,10 @@
        url: "https://github.com/ga-wdi-exercises/hogwarts_rails"
        lead: "Andy"
        support: ""
+    - "6:00PM - 8:00PM":
+       title: Office Hours
+       url: ""
+       lead: "Adrian"
     - "06:00PM":
        title: "Due At 6: Outcomes Homework: Final Brand Statement + Draft Resume"
        color: red
@@ -642,7 +646,7 @@
        support: "Nayana"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "James"
        support: ""
   - day:
     - "9:00AM - 10:00AM":
@@ -666,7 +670,7 @@
        support: "Andy"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
-       lead: ""
+       lead: "Nayana"
        support: ""
   - day:
     - "9:00AM":
