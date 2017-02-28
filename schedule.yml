@@ -727,7 +727,7 @@
        title: "Office Hours"
        url: "https://github.com/ga-wdi-exercises/project2#asking-for-help"
        lead: "Adrian"
-       support: "James"
+       support: "Andy"
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 2"
@@ -737,7 +737,7 @@
     - "10:00AM - 12:00PM":
        title: "Office Hours"
        url: "https://github.com/ga-wdi-exercises/project2#asking-for-help"
-       lead: "Andy"
+       lead: "James"
        support: "Erik"
     - "2:30PM - 5:00PM":
        title: "Outcomes: Preparing for the Interview & Talking Money"
