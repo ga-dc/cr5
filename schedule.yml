@@ -1008,10 +1008,6 @@
        url: "https://github.com/ga-wdi-lessons/building-a-mean-app"
        lead: "Nayana"
        support: "Erik"
-    - "6:00PM":
-       title: "Due At 6pm: Outcomes HW: Final GA Profile"
-       color: red
-       url:"https://github.com/ga-dc/outcomes/blob/master/roadmap/week10/HWweek10.md"
     - "6:00PM - 8:00PM":
        title: "Office Hours"
        lead: ""
