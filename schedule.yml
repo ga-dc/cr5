@@ -1137,7 +1137,7 @@
        support: "James"
     - "2:30PM - 5:00PM":
        title: "React Router"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/react-router"
        lead: "Andy"
        support: "Angel"
   - day:
