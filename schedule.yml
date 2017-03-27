@@ -1142,9 +1142,9 @@
        support: "Angel"
   - day:
     - "9:00AM - 10:00AM":
-       title: "Code Challenge"
+       title: "Outcomes Prep"
        url: ""
-       lead: "Erik"
+       lead: ""
        support: ""
     - "10:00AM - 12:30PM":
        title: "Lab: React Router"
@@ -1163,9 +1163,9 @@
        url:
          - React OMDB: "https://github.com/ga-wdi-exercises/react-omdb/"
     - "9:00AM - 10:00AM":
-       title: "Outcomes Prep"
+       title: "Code Challenge"
        url: ""
-       lead: ""
+       lead: "Erik"
        support: ""
     - "10:00AM - 12:30PM":
        title: "Redux: Intro"
