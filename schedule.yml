@@ -1192,7 +1192,7 @@
        title: "Computer Science"
        lead: "Adrian"
        support: "Erik"
-       url: ""
+       url: "https://github.com/ga-wdi-lessons/cs-algorithms"
     - "2:30PM - 5:00PM":
        title: "Project 4: Intro"
        url: "Erik"
